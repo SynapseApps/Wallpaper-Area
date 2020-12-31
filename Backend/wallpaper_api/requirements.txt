@@ -17,7 +17,7 @@ django-templated-mail==1.1.1
 djangorestframework==3.9.4
 djangorestframework-jwt==1.11.0
 djoser==1.7.0
-ecdsa==0.13.2
+ecdsa==0.13.3
 future==0.17.1
 gunicorn==19.9.0
 idna==2.8
